@@ -11,7 +11,7 @@ const add = async (req, res) => {
       agenda,
       related,
       location,
-      createBy: mongoose.Types.ObjectId(createBy),
+      createBy,
       notes,
       dateTime: dateTime || new Date().toISOString(),
       deleted: false, // Default value for deleted field
