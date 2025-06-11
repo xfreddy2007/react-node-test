@@ -18,4 +18,6 @@
 
 ## Completed
 
+Screenshot: ![Image](https://github.com/user-attachments/assets/536a88a8-4838-411d-a0be-a24f0d6d1d66)
+
 INFO: In order to show the bug fix for the login functionality, I push the `.env` file to the remote origin. In production, the `.env` file should not be listed in the remote repository.
